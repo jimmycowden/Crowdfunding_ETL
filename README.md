@@ -14,7 +14,7 @@ The instructions for this mini project are divided into the following subsection
 1.Create the Category and Subcategory DataFrames#(Hatice Damla Duman)
 2.Create the Campaign DataFrame(Hatice Damla Duman)
 3.Create the Contacts DataFrame(Jimmy Cowden)
-4.Create the Crowdfunding Database(Daniel Meyerowitz)
+4.Create the Crowdfunding Database(Daniel Meyerowitz/ Jimmy Cowden)
 
 #Create the Category and Subcategory DataFrames
 

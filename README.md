@@ -21,4 +21,10 @@ Verify that each table has the correct data by running a SELECT statement for ea
 ![Select statement from contacts](https://i.imgur.com/TEkh82r.png);
 ![Select statement from campaign](https://i.imgur.com/HNt82qt.png);
 
+#Dataframes
+
+![category dataframe](https://i.imgur.com/ir8UUXj.png);
+![subcategory dataframe](https://i.imgur.com/jcPhuId.png);
+![contacts dataframe](https://i.imgur.com/LiQN3G0.png);
+![campaign dataframe](https://i.imgur.com/pOPSdnp.png);
 

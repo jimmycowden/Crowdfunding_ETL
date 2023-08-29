@@ -83,6 +83,6 @@ Verify that each table has the correct data by running a SELECT statement for ea
 
 
 
-
+![Here are the images verifying our data was inserted correctly](https://imgur.com/a/la92lWe)
 
 

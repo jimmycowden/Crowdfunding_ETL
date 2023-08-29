@@ -83,6 +83,6 @@ Verify that each table has the correct data by running a SELECT statement for ea
 
 
 
-![Here are the images verifying our data was inserted correctly](https://imgur.com/a/la92lWe)
+![Here are the images verifying our data was inserted correctly](<blockquote class="imgur-embed-pub" lang="en" data-id="XRoEusH"><a href="https://imgur.com/XRoEusH">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 
